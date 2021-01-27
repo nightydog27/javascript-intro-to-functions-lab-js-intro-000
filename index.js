@@ -24,6 +24,6 @@ if (string === whisper(string)) {
 } else if (string === "I love you, Grandma.") {
   value = "I love you, too."
 }
-  
+
 return value;
 }
